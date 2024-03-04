@@ -1,0 +1,1 @@
+Complete Power BI project with Sales Data.We can use this as Template
